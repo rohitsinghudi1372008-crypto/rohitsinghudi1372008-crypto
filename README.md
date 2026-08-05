@@ -1,14 +1,14 @@
 <h1 align="center">Hi there, I'm Rohit Singh 👋</h1>
 
-<h3 align="center">AI/ML Engineering Student | C++ Developer | Team Lead @ Code Titans</h3>
+<h3 align="center">AI/ML Engineering Student | GenAI Developer | Team Lead @ Code Titans</h3>
 
 <p align="left"> 
-I am a B.Tech student specializing in Artificial Intelligence and Machine Learning at ABES Engineering College. I am passionate about building intelligent systems and highly optimized algorithms. Currently, I lead "Code Titans," where we focus on competitive programming and hackathon architectures.
+I am a B.Tech student specializing in Artificial Intelligence and Machine Learning at ABES Engineering College. I am passionate about building intelligent systems, highly optimized algorithms, and cutting-edge LLM applications. Currently, I lead "Code Titans," where we focus on competitive programming and hackathon architectures.
 </p>
 
 ### 🛠️ Tech Stack & Skills
-- **Core:** C++, Data Structures & Algorithms (DSA), Time/Space Complexity Optimization
-- **AI/ML:** Generative AI, Predictive Modeling, Python
+- **Generative AI:** Retrieval-Augmented Generation (RAG), LangChain, Vector Databases, Embeddings, LLM Integration
+- **Core Engineering:** C++, Data Structures & Algorithms (DSA), Time/Space Complexity Optimization, Python
 - **Web Development:** JavaScript, HTML5, CSS3, React, Vercel
 
 ### 🚀 Highlighted Work
@@ -22,4 +22,4 @@ I am a B.Tech student specializing in Artificial Intelligence and Machine Learni
 </p>
 
 ---
-<p align="center"><i>"Building scalable architectures and optimized algorithms."</i></p>
+<p align="center"><i>"Building scalable architectures, optimized algorithms, and intelligent RAG systems."</i></p>
