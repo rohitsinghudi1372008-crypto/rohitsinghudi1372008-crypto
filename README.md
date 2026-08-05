@@ -3,7 +3,7 @@
 <h3 align="center">AI/ML Engineering Student | GenAI Developer | Team Lead @ Code Titans</h3>
 
 <p align="left"> 
-I am a B.Tech student specializing in Artificial Intelligence and Machine Learning at ABES Engineering College. I am passionate about building intelligent systems, highly optimized algorithms, and cutting-edge LLM applications. Currently, I lead "Code Titans," where we focus on competitive programming and hackathon architectures.
+I am a second-year B.Tech student specializing in Artificial Intelligence and Machine Learning at ABES Engineering College. I am passionate about building intelligent systems, highly optimized algorithms, and cutting-edge LLM applications. Currently, I lead "Code Titans," where we focus on competitive programming and hackathon architectures.
 </p>
 
 ### 🛠️ Tech Stack & Skills
