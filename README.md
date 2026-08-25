@@ -12,6 +12,7 @@ I am a second-year B.Tech student specializing in Artificial Intelligence and Ma
 - **Web Development:** JavaScript, HTML5, CSS3, React, Vercel
 
 ### 🚀 Highlighted Work
+- **MPLADS-AI Governance Portal (SIH '26):** Built an automated surveillance system for MoSPI featuring Computer Vision photo forensics (dHash), NetworkX contractor cartel graphs, and live React GIS dashboard ([Live Portal](https://mplads-ai-portal.netlify.app)).
 - **Dynamic Urban Resource Optimizer:** An AI-driven smart city resource management and predictive modeling system.
 - **Team Lead @ Code Titans:** Collaborating on high-stakes competitive hackathons (e.g., CODE 1) and driving tech initiatives.
 - **Former Campus Ambassador:** Drove engagement and tech initiatives for IIT Delhi (Tryst & BECon) and Mindenious.
