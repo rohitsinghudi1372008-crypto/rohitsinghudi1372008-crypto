@@ -156,8 +156,7 @@ I track my technical growth against self-directed research milestones:
 ### 📊 GitHub Activity & Telemetry
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohitsinghudi1372008-crypto&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=60A5FA&icon_color=38BDF8&text_color=94A3B8" height="155" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitsinghudi1372008-crypto&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=60A5FA&text_color=94A3B8" height="155" />
+  <img src="https://streak-stats.demolab.com/?user=rohitsinghudi1372008-crypto&theme=tokyonight&hide_border=true" alt="Rohit's GitHub Streak" />
 </div>
 
 ---
